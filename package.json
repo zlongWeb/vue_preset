@@ -1,0 +1,11 @@
+{
+  "name": "my-preset",
+  "version": "1.0.0",
+  "description": "My vue-preset for vue projects",
+  "main": "prompts.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "libai",
+  "license": "ISC"
+}

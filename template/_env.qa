@@ -1,0 +1,12 @@
+# 开发环境
+NODE_ENV = 'production'
+
+
+# 项目的publicPath
+VUE_APP_PUBLIC_PATH = ''
+
+# cdn 地址
+VUE_APP_CDN = 'https://media.zlongame.com/media/upload/20230209/'
+
+# qa的API 地址
+VUE_APP_API = ''
